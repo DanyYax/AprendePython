@@ -7,7 +7,7 @@
 # Presentar las 3 opciones 
 # Capturar elección del jugador
 # Decidir resultado
-# Mostrar resultado y Terminar el Juego
+# Mostrar resultado y Terminar el Juego 
 
 from random import randrange
 
